@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "next13-blog-app",
+      "title": "Next13をudemyで学習",
+      "content": "shincodeさんの教材で学んでいます",
+      "createdAt": "2023/9/18"
+    },
+    {
+      "id": "json-server",
+      "title": "json-serverを学習",
+      "content": "json-serverを使用して、dataをwatchして画面表示に取り組んでいます",
+      "createdAt": "2023/9/19"
+    }
+  ]
+}
