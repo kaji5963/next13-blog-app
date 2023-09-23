@@ -17,7 +17,7 @@ const ArticleList = (props: ArticleListProps) => {
           <article key={article.id} className="shadow my-4">
             <Link href={`articles/${article.id}`} className="hover:opacity-75">
               <Image
-                src="https://source.unsplash.com/collection/1346951/1000*500?sig=1"
+                src={`https://source.unsplash.com/collection/1346951/1000*500?sig=${article.id}`}
                 alt=""
                 width={1280}
                 height={300}
