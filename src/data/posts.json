@@ -25,18 +25,6 @@
       "createdAt": "2023-09-24T00:50:47.305Z"
     },
     {
-      "id": "test1",
-      "title": "test1",
-      "content": "test1",
-      "createdAt": "2023-09-24T00:53:08.696Z"
-    },
-    {
-      "id": "test2",
-      "title": "test2",
-      "content": "test2",
-      "createdAt": "2023-09-24T00:53:50.684Z"
-    },
-    {
       "id": "blog",
       "title": "blog",
       "content": "blog",
