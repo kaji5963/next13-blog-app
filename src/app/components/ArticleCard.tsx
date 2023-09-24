@@ -47,6 +47,7 @@ const ArticleCard = ({ article }: ArticleCardProps) => {
         </Link>
       </div>
     </article>
+    
   );
 };
 
