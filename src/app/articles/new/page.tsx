@@ -32,7 +32,7 @@ const CreateBlogPage = () => {
 
     const { id, title, content } = blogInfo;
 
-    await fetch(`${API_URL}/api/create`, {
+    await fetch(`${API_URL}/api/blog`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
